@@ -65,7 +65,7 @@ Key file is also stored securely in AppData
 
 Windows path:
 
-C:\Users\<User>\AppData\Roaming\RinLock\
+C:\Users\<User>\AppData\Local\RinLock
 
 Files:
 
